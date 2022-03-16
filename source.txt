@@ -6,3 +6,4 @@ https://bestofphp.com/repo/dompdf-dompdf-php-pdf
 https://stackoverflow.com/questions/61718791/canvas-signature-to-be-saved-on-server-php
 http://keith-wood.name/signature.html
 https://stackoverflow.com/questions/33241328/sending-a-signature-capture-to-pdf-with-php-data-url(best)
+https://www.pdftron.com/webviewer/demo/digital-signatures/
