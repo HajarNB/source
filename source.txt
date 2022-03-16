@@ -11,3 +11,4 @@ https://programmierfrage.com/items/how-to-make-a-digital-signature-visible-in-a-
 https://github.com/iafan/html2pdf/blob/master/_tcpdf_5.9.206/examples/example_052.php
 https://github.com/harryosmar/php-pdf-digital-signature
 https://gist.github.com/kylejson/9716881
+https://php.tutorialink.com/how-to-save-canvas-image-to-server-with-javascript-and-php/
