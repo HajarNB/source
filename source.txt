@@ -1,0 +1,5 @@
+https://github.com/pear/Image_Canvas/blob/master/Image/Canvas.php
+https://pear.php.net/manual/en/package.images.image-canvas.intro.php
+https://sookocheff.com/post/javascript/saving-canvas-data-to-an-image-file-with-javascript-and-php/
+https://www.geeksforgeeks.org/how-to-save-an-html-5-canvas-as-an-image-on-the-server/
+https://bestofphp.com/repo/dompdf-dompdf-php-pdf
