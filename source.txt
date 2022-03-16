@@ -9,3 +9,4 @@ https://stackoverflow.com/questions/33241328/sending-a-signature-capture-to-pdf-
 https://www.pdftron.com/webviewer/demo/digital-signatures/
 https://programmierfrage.com/items/how-to-make-a-digital-signature-visible-in-a-pdf-with-tcpdf-and-php
 https://github.com/iafan/html2pdf/blob/master/_tcpdf_5.9.206/examples/example_052.php
+https://github.com/harryosmar/php-pdf-digital-signature
