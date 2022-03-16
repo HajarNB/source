@@ -12,3 +12,4 @@ https://github.com/iafan/html2pdf/blob/master/_tcpdf_5.9.206/examples/example_05
 https://github.com/harryosmar/php-pdf-digital-signature
 https://gist.github.com/kylejson/9716881
 https://php.tutorialink.com/how-to-save-canvas-image-to-server-with-javascript-and-php/
+https://usefulangle.com/post/353/javascript-canvas-image-upload
