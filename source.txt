@@ -15,3 +15,4 @@ https://php.tutorialink.com/how-to-save-canvas-image-to-server-with-javascript-a
 https://usefulangle.com/post/353/javascript-canvas-image-upload
 https://www.techiesbadi.in/2017/06/How-to-save-an-HTML5-Canvas-as-Image-on-a-server-using-PHP.html
 https://www.youtube.com/watch?v=RvzWGElvr7w
+https://stackoverflow.com/questions/46514484/send-signature-pad-to-php-post-method
